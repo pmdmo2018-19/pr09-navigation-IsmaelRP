@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="mainPadding">15dp</dimen>
+    <dimen name="fab_margin">15dp</dimen>
+    <dimen name="appBarLayout_height">180dp</dimen>
+</resources>
