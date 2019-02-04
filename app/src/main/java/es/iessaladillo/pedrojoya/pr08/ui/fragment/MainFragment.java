@@ -3,7 +3,6 @@ package es.iessaladillo.pedrojoya.pr08.ui.fragment;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.databinding.DataBindingUtil;
 
-import android.content.Context;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -17,7 +16,6 @@ import androidx.navigation.ui.NavigationUI;
 import es.iessaladillo.pedrojoya.pr08.R;
 import es.iessaladillo.pedrojoya.pr08.databinding.FragmentMainBinding;
 import es.iessaladillo.pedrojoya.pr08.ui.activity.MainViewModel;
-import es.iessaladillo.pedrojoya.pr08.ui.activity.Navigations;
 
 import android.view.LayoutInflater;
 import android.view.Menu;
